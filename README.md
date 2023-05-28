@@ -9,13 +9,13 @@ An extensive collection of Boids algorithm implementations in various programmin
 
 ### Languages:
 
-- [] Python
-- [] C++
-- [] Go
-- [] C
-- [] Rust
-- [] JavaScript
-- [] Ruby
-- [] Java
+- [ ]  Python
+- [ ] C++
+- [ ] Go
+- [ ] C
+- [ ] Rust
+- [ ] JavaScript
+- [ ] Ruby
+- [ ] Java
 
 
