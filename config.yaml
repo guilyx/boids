@@ -1,0 +1,11 @@
+boids:
+  width: 1000
+  height: 1000
+  num_boids: 80
+  max_speed: 3
+  separation_radius: 15
+  alignment_radius: 100
+  cohesion_radius: 100
+  separation_force: 0.8
+  alignment_force: 0.008
+  cohesion_force: 0.01
